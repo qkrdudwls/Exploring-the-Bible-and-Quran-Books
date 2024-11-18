@@ -1,1 +1,1 @@
-# Bible-vs-Quran
+# Data Mining
