@@ -1,1 +1,1 @@
-# Data Mining
+# Exploring the Bible and Quran Books
