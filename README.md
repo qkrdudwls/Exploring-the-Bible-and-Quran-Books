@@ -4,13 +4,15 @@
 - [The King James Version of the Bible](https://www.gutenberg.org/ebooks/10)
 - [The Koran (Al-Qur'an) by J. M. Rodwell and G. Margoliouth](https://www.gutenberg.org/ebooks/2800)
 
-## Background
+## Overview
+
+### Background
 
 Christianity and Islam are the two largest religions in the world, with 2.8 billion and 1.9 billion followers, respectively. Both religions are considered Abrahamic and are monotheistic, originating from the Middle East. However, they have experienced moments of conflict and opposition through historical events such as the Battle of Yarmouk in 636, the Crusades from 1095 to 1291, the Battle of Vienna in 1683, and the terrorism by al-Qaeda and the Taliban. Despite these historical conflicts and opposition, both Christianity and Islam share the common goal of answering universal questions about human life, and their scriptures, the Bible and the Quran, are at the heart of their faith and teachings. The Bible and the Quran play a crucial role as texts that provide guidance for life, establish moral norms, and form the foundation of faith for their respective followers.
 
 This project starts with an attempt to objectively compare the similarities and differences between the Bible and the Quran through text analysis, focusing on the data itself rather than interpretation of the text. The goal is to clarify the common messages and moral values conveyed by the two scriptures, analyze the structure and linguistic features of the texts in a data-driven manner, and uncover the moral values and messages that both scriptures aim to convey.
 
-## Goal
+### Goal
 
 This project aims to calculate the similarity between the Bible and the Quran through objective, data-driven comparison, excluding subjective religious perspectives, and to derive commonalities and differences. Various text mining techniques will be utilized to analyze the structural and content-related characteristics of both scriptures, and multiple similarity measurement methods will be applied to perform a quantitative comparison.
 
