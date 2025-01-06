@@ -1,5 +1,9 @@
 # Exploring the Bible and Quran Books
 
+## Datasets Used 
+- [The King James Version of the Bible](https://www.gutenberg.org/ebooks/10)
+- [The Koran (Al-Qur'an) by J. M. Rodwell and G. Margoliouth](https://www.gutenberg.org/ebooks/2800)
+
 ## Background
 
 Christianity and Islam are the two largest religions in the world, with 2.8 billion and 1.9 billion followers, respectively. Both religions are considered Abrahamic and are monotheistic, originating from the Middle East. However, they have experienced moments of conflict and opposition through historical events such as the Battle of Yarmouk in 636, the Crusades from 1095 to 1291, the Battle of Vienna in 1683, and the terrorism by al-Qaeda and the Taliban. Despite these historical conflicts and opposition, both Christianity and Islam share the common goal of answering universal questions about human life, and their scriptures, the Bible and the Quran, are at the heart of their faith and teachings. The Bible and the Quran play a crucial role as texts that provide guidance for life, establish moral norms, and form the foundation of faith for their respective followers.
